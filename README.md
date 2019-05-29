@@ -1,7 +1,6 @@
-BeCode
-Lovelace 3.9
-In Code we thrust
-
+> *BeCode* <br/>
+"In Code We Trust" <br/>
+Lovelace 3.9 <br/>
 
 My landing page
 
