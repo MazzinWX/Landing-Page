@@ -1,0 +1,51 @@
+#menu-outer {
+    width: 100%;
+}
+
+.table {
+    width: 100%;
+    background-color: rgb(220, 220, 220);
+    height: 50px;
+}
+
+ul#horizontal-list {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15px;
+}
+
+ul#horizontal-list li {
+    display: block;
+}
+
+ul#horizontal-list li a {
+    margin: 0;
+    padding: 5px 20px;
+    background-color: rgba(20, 220, 200, 0.3);
+    border: solid 2px rgb(0, 100, 60);
+}
+
+ul#horizontal-list li a:hover {
+    background-color: rgb(10, 170, 120);
+}
+
+.main_title {
+    display: block;
+    height: 200px;
+    align-content: center;
+    text-align: center;
+    width: 70%;
+    padding: 5px;
+    margin: 10px 15%;
+    border: solid 2px rgb(10, 170, 120);
+    background-color: rgba(20, 220, 200, 0.3);
+}
+
+.main_page {
+    height: 200px;
+    width: 90%;
+    margin: 5px 5%;
+    padding: 2px 5px;
+    background-color: rgb(10, 170, 120);
+    border: solid 1px rgb(0, 100, 60);
+}
